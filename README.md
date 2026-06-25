@@ -24,4 +24,4 @@ Add the following lines directly to your `Cargo.toml` file:
 
 ```toml
 [dependencies]
-tcc-forge = { git = "[https://github.com/Sonnigg/tcc-forge.git](https://github.com/Sonnigg/tcc-forge.git)" }
+tcc-forge = { git = "https://github.com/Sonnigg/tcc-forge.git" }
