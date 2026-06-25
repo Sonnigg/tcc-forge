@@ -1,6 +1,6 @@
 [package]
 name = "tcc-forge"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Ben Samberg <uuao6989@gmail.com>"]
 description = "A lightweight, ergonomic C code generation library for Rust designed for seamless compilation with the Tiny C Compiler (TCC)."
