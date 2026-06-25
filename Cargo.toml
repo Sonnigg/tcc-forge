@@ -8,7 +8,6 @@ readme = "README.md"
 repository = "https://github.com/Sonnigg/tcc-forge"
 license = "MIT"
 keywords = ["codegen", "c", "tcc", "compiler", "builder"]
-categories = ["development-tools::code-generators"]
 
 [dependencies]
 # No external dependencies required! Keeping it extremely lightweight.
